@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
       //   mobileScreenLayout: MobileScreenLayout(),
       //   webScreenLayout: WebScreenLayout(),
       // ),
-      home:SignUpScreen(),
+      home:const LoginScreen(),
     );
   }
 }
